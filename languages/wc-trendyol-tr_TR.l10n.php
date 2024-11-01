@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'Trendyol Woocommerce (Ücretsiz)','report-msgid-bugs-to'=>'','pot-creation-date'=>'2024-04-14 16:59+0000','po-revision-date'=>'2024-04-14 17:00+0000','last-translator'=>'','language-team'=>'Türkçe','language'=>'tr_TR','plural-forms'=>'nplurals=2; plural=n != 1;','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','x-generator'=>'Loco https://localise.biz/','x-loco-version'=>'2.6.7; wp-6.5.2','x-domain'=>'wc-trendyol','messages'=>[]];

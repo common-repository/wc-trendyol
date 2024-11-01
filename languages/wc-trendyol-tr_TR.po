@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trendyol Woocommerce (Ücretsiz)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-14 16:59+0000\n"
+"PO-Revision-Date: 2024-04-14 17:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Türkçe\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2\n"
+"X-Domain: wc-trendyol"
+
+#: admin/partials/settings_tabs/other_plugins.php:51
+msgid "AKTİFLEŞTİR"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:40
+msgid "Ana marka"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:55
+msgid "Anlaşmalı kargo firmanız"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:25
+msgid "API key"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:30
+msgid "API secret"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:36 admin/class-wc-trendyol-admin.php:83
+#: admin/class-wc-trendyol-admin.php:83
+msgid "Ayarlar"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:107
+msgid "Ayarlar Kurulum Videosu"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:188
+msgid "Bilgiler geçerli. Kayıt yapılmıştır."
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:852
+msgid "Bu eklentinin adını paylaşır mısınız?"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:37
+msgid "Bu sayfada lisans ve temel bilgilerinizi girebilirsiniz."
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:848
+msgid "Daha iyi bir eklenti buldum"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:62
+msgid "DEBUG MODE"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:961
+msgid "Destek Alın"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:872
+msgid "Diğer"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:43
+msgid "Diğer Eklentiler"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:63 admin/class-wc-trendyol-admin.php:68
+msgid "DİKKAT : Yazılımcı değilseniz açmanız tavsiye edilmez."
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:318
+msgid "Eklenti Aktifleştirildi"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:312
+msgid "Eklenti aktifleştirilken bir sorun oldu"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:265
+msgid "Eklenti dosyası kaydedilirken bir hata oluştu."
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:273
+msgid "Eklenti dosyası kurulurken bir hata oluştu."
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:255
+msgid "Eklenti indirilirken bir hata oluştu: "
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:279
+msgid "Eklenti Kuruldu."
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:838
+msgid "Eklenti web sitesi hızını etkiliyor"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:828
+msgid "Eklenti çok güzel ama benim ihtiyacımı karşılamıyor"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:904
+msgid ""
+"Eklentimizi daha iyi hale getirebilmek için sizin deneyiminize ihtiyacımız "
+"var. Lütfen bizimle sorununuzu paylaşın"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:822
+msgid "Eklentimizi kullanırken karşılaştığınız zorlukları açıklar mısınız?"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:895
+msgid "Geri Bildirim Yollayın"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:957
+msgid "Geribildirimi Gönder ve Eklentiyi Pasif Yap"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:868
+msgid "Geçici olarak devre dışı bırakıyorum"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:89
+msgid "Girdiniz lisans geçerlidir."
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:98
+msgid "Girdiniz lisans geçersizdir."
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:170
+msgid ""
+"Girdiğiniz bilgiler ile Trendyol'a bağlanılamadı. Lütfen tekrar kontrol edin."
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:241
+#: admin/inc/wc_trendyol_ajax_processes.php:299
+msgid "Güvenlik Doğrulaması Başarısız"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:842
+msgid "Hangi işlemi yaparken web siteniz yavaşlıyor?"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hasan Yüksektepe"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hayatikodla.net//"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://https://hayatikodla.net"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:57
+msgid "Kargo Firmanızı Seçin"
+msgstr ""
+
+#: admin/partials/wc_trendyol_categories_matching.php:51
+msgid "Kategori Adı"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:85
+msgid "Kategori Eşleştir"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:115
+msgid "Kategori Eşleştirme"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:97
+msgid "Kaydet"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:818
+msgid "Kullanımı çok zor. Döküman eksikliği var"
+msgstr ""
+
+#: admin/partials/wc_trendyol_bulk_product_processes.php:50
+#: admin/partials/wc_trendyol_product_matching.php:47
+msgid "LÜTFEN ÖNCE KATEGORİ SEÇİN"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:876
+msgid "Lütfen açıklama yazın"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:42
+msgid "Lütfen markanızı seçin"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:832
+msgid "Neye ihtiyacınız olduğunu açıklar mısınız?"
+msgstr ""
+
+#: admin/partials/wc_trendyol_product_matching.php:41
+msgid "Otomatik SKU Oluştur"
+msgstr ""
+
+#: admin/partials/settings_tabs/other_plugins.php:46
+#: admin/partials/settings_tabs/other_plugins.php:52
+#: admin/partials/settings_tabs/other_plugins.php:57
+msgid "PRO'YA Geç"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:964
+msgid "Sadece Eklentiyi Pasif Yap"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:20
+msgid "Satıcı ID (Cari ID)"
+msgstr ""
+
+#: admin/partials/settings_tabs/cronjobs_settings.php:18
+msgid "Siparişlerin Çekilmesi"
+msgstr ""
+
+#: admin/partials/wc_trendyol_bulk_product_processes.php:58
+#: admin/partials/wc_trendyol_categories_matching.php:101
+#: admin/partials/wc_trendyol_product_matching.php:55
+msgid "Sitenize ait kategori bulunamadı. Lütfen önce kategori ekleyin."
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:862
+msgid "Sorunu açıklayabilir misiniz?"
+msgstr ""
+
+#: admin/partials/settings_tabs/cronjobs_settings.php:31
+msgid "Stok Eşitleme"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:67
+msgid "TEST MODE"
+msgstr ""
+
+#: admin/partials/settings_tabs/cronjobs_settings.php:41
+msgid "Tetikliyiciler Nasıl Kurulur"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:35
+msgid "Token"
+msgstr ""
+
+#: admin/partials/wc_trendyol_categories_matching.php:24
+msgid "Toplu Kategori Eşitleme"
+msgstr ""
+
+#: admin/partials/wc_trendyol_product_matching.php:35
+msgid "Toplu Ürün Eşitleme"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:86 admin/class-wc-trendyol-admin.php:122
+#: admin/partials/wc_trendyol_bulk_product_processes.php:35
+msgid "Toplu Ürün İşlemleri"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:858
+msgid "Trendyo'a bağlanırken sorun yaşıyorum"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:82 admin/class-wc-trendyol-admin.php:94
+msgid "Trendyol"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:101
+msgid "Trendyol Ayarları"
+msgstr ""
+
+#: admin/partials/settings_tabs/general_settings.php:16
+msgid "Trendyol Entegrasyon Sayfasını Aç"
+msgstr ""
+
+#: admin/partials/wc_trendyol_categories_matching.php:52
+msgid "Trendyol Kategorisi"
+msgstr ""
+
+#: admin/partials/wc_trendyol_categories_matching.php:68
+msgid "Trendyol kategorisi seçiniz"
+msgstr ""
+
+#. Name of the plugin
+msgid "Trendyol Woocommerce (Ücretsiz)"
+msgstr ""
+
+#: admin/inc/wc_trendyol_ajax_processes.php:195
+msgid "Trendyola Bağlanamıyor. Bilgileri kontrol ediniz."
+msgstr ""
+
+#: admin/partials/wc_trendyol_bulk_product_processes.php:45
+#: admin/partials/wc_trendyol_product_matching.php:42
+msgid "Tümünü Kaydet"
+msgstr ""
+
+#. Description of the plugin
+msgid "Woocoommerce için trendyol eklentisi"
+msgstr ""
+
+#: admin/partials/settings_tabs/other_plugins.php:45
+msgid "YÜKLE"
+msgstr ""
+
+#: admin/partials/settings_tabs/other_plugins.php:62
+msgid "ÇOK YAKINDA"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:84
+msgid "Ürün Eşleştir"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:108
+msgid "Ürün Eşleştirme"
+msgstr ""
+
+#: admin/partials/wc_trendyol_bulk_product_processes.php:27
+#: admin/partials/wc_trendyol_product_matching.php:27
+msgid "Ürün Kategorisi Seçiniz"
+msgstr ""
+
+#: admin/class-wc-trendyol-admin.php:44
+msgid "İşinize yarayacak diğer eklentilerimiz"
+msgstr ""

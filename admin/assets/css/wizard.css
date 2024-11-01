@@ -1,0 +1,100 @@
+.wc_trendyol_pro_wizard{
+    float           : left;
+    width           : 100%;
+    position        : fixed;
+    top             : 0;
+    right           : 0;
+    left            : 0;
+    bottom          : 0;
+    background      : #eee;
+    z-index         : 99999;
+    display         : flex;
+    flex-wrap       : wrap;
+    align-items     : center;
+    justify-content : center;
+    align-content   : center;
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_title{
+    float      : left;
+    width      : 100%;
+    font-size  : 32px;
+    padding    : 10px;
+    box-sizing : border-box;
+    text-align : center;
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_subtitle{
+    float      : left;
+    width      : 100%;
+    text-align : center;
+    font-size  : 22px;
+    padding    : 10px;
+    box-sizing : border-box;
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_content{
+    float           : left;
+    width           : auto;
+    /* min-height      : 300px; */
+    max-width       : 550px;
+    background      : #fff;
+    border-radius   : 10px;
+    margin-top      : 15px;
+    display         : flex;
+    flex-wrap       : wrap;
+    justify-content : center;
+    align-items     : center;
+    padding         : 20px 50px;
+    box-sizing      : border-box;
+    align-content   : center;
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_content .wc_trendyol_pro_wizard_logo{
+    float          : left;
+    width          : 100%;
+    text-align     : center;
+    border-bottom  : 1px solid #eee;
+    padding-bottom : 20px;
+    margin-bottom  : 20px;
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_content .wc_trendyol_pro_wizard_logo img{
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_content .wc_trendyol_pro_store_key{
+    float : left;
+    width : 100%;
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_content .wc_trendyol_pro_wizard_step{
+    float      : left;
+    width      : 100%;
+    text-align : center;
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_content .wc_trendyol_pro_wizard_step .wc_trendyol_pro_form_group{
+    float : left;
+    width : 100%;
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_content .wc_trendyol_pro_wizard_step .wc_trendyol_pro_form_group label{
+    float         : left;
+    width         : 100%;
+    font-size     : 20px;
+    margin-bottom : 12px;
+    text-align: left;
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_content .wc_trendyol_pro_wizard_step .wc_trendyol_pro_form_group input{
+    float : left;
+    width : 100%;
+    /* padding: 6px; */
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_wizard_content .wc_trendyol_pro_wizard_step .wc_trendyol_pro_form_group .wc_trendyol_pro_btn{
+    float       : left;
+    width       : 100%;
+    font-size   : 19px;
+    font-weight : 600;
+}
+.wc_trendyol_pro_wizard .wc_trendyol_pro_close_wizard_btn{
+
+}
+/* OTHER */
+.swal2-container{
+    z-index : 999999;
+}
+.select2-container{
+    z-index : 999999;
+}
+/* OTHER */
